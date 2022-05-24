@@ -1,0 +1,12 @@
+# Builds
+/target
+target
+
+# Configs
+.env
+
+# IDE folders
+.vscode
+.idea
+vscode
+idea
